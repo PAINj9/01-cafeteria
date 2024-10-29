@@ -288,7 +288,7 @@ nav input{
 .imagen-introductoria {
     width: 50%;
     height: 100vh;
-    background-image: url('/images/cafeteria1.jpg'); /* Asegúrate de que la ruta sea correcta */
+    background-image: url('/images/cafeteria.jpg'); /* Asegúrate de que la ruta sea correcta */
     background-size: cover; /* Mantiene la proporción de la imagen */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
@@ -309,7 +309,7 @@ nav input{
     align-items: center; /* Alinea los elementos al centro horizontalmente */
     justify-content: center; /* Centra los elementos verticalmente */
     text-align: center;
-    background-image: url('/images/foto2.jpg'); /* Asegúrate de que la ruta sea correcta */
+    background-image: url('/images/foto3.jpg'); /* Asegúrate de que la ruta sea correcta */
     color: #f2f2f2;
 }
 
@@ -321,6 +321,7 @@ nav input{
 }
 
 .botones {
+    margin-top: 50px;
     display: flex;
 }
 
@@ -329,6 +330,7 @@ nav input{
     border: none;
     border-top: 1px solid #8b5a2b; /* Cambia el color según el diseño */
     margin: 20px auto; /* Centra la línea y da espacio alrededor */
+    margin-bottom: 50px;
 }
 
 .divider1 {
